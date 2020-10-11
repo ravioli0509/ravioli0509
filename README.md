@@ -6,18 +6,16 @@ Welcome to My Github Page
 
 ### What I Developed With In Past Internships
 * Agent & Client System at a Real Estate Agency in Tokyo (2019 May ~ September)
-    * Laravel <img width="26px" src="https://img.icons8.com/windows/32/000000/laravel.png"/>
-        * PHP <img width="26px" src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
-    * MySQL <img width="26px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
-    * HTML/CSS <img width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    * JavaScript <img width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    * Python <img width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+    * <img width="26px" src="https://img.icons8.com/windows/32/000000/laravel.png"/> <img width="26px" src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
+    * <img width="26px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+    * <img width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    * <img width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    * <img width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 * Scheduler App at a Start Up in Tokyo (2020 April ~ October)
-    * ReactJS <img width="26px" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-        * NodeJS <img width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    * MongoDB <img width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    * <img width="26px" src="https://img.icons8.com/plasticine/48/000000/react.png"/> <img width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    * <img width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     * Google App Script <img width="26px" src="https://img.icons8.com/color/48/000000/google-logo.png"/>
-    * AWS <img width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    * <img width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 <br />
 
@@ -35,12 +33,6 @@ Welcome to My Github Page
 ### What I'm Currently Studying/Working With In School
 * Intro To Software Engineering <img width="26px" src="https://img.icons8.com/plasticine/100/000000/android-os.png"/> <img width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 * Reinforcement Leaning/AI <img width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<br />
-<br />
-
-
-<br />
-<br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravioli0509&show_icons=true&hide=issues&theme=dark)
 <br />
